@@ -1,4 +1,4 @@
-== VRaptor Panettone Plugin
+## VRaptor Panettone Plugin
 
 As soon as you apply the nature:
 
@@ -8,11 +8,11 @@ As soon as you apply the nature:
 
 Every change to `src/main/views` will be automatically reflected in your compiled classes. Have fun with your templates!
 
-== Installation  
+## Installation  
 
 Use our update site: 
 
-== FAQ
+## FAQ
 
 1. I want to use another panettone release
 Feel free to update it at `src/build/lib`
